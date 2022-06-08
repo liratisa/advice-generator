@@ -82,10 +82,10 @@ img {
   }
 
   @include device(mobile) {
-    top: 385px;
+    top: 385px !important;
   }
 
   @include device(tablet) {
-    top: 385px;
+    top: 385px !important;
   }
 }
