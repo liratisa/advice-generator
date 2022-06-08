@@ -84,4 +84,8 @@ img {
   @include device(mobile) {
     top: 385px;
   }
+
+  @include device(tablet) {
+    top: 385px;
+  }
 }
